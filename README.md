@@ -1,8 +1,8 @@
-That's a great project idea! Here's a simple and beginner-friendly **README.md** file for your project "Focus On Today":
 
-  🌟 Focus On Today
 
-**Focus On Today** is a simple and motivating web app built using **HTML**, **CSS**, and **JavaScript**. It helps you **make the most of each day** by focusing on your daily goals and tracking your progress with a progress bar.
+
+
+Focus On Today is a simple and motivating web app built using HTML5, CSS3, and JavaScript. It helps you **make the most of each day** by focusing on your daily goals and tracking your progress with a Progress bar.
 
   ✅ What This App Does
 
